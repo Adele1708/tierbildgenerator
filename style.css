@@ -1,0 +1,29 @@
+h1 {
+   color: black;
+   font-family: Comic Sans MS;
+   text-align: center;
+}
+
+body {
+   background-color: LightSeaGreen;
+}
+
+img{
+  display: block;
+  height: 450px; 
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid black;
+}
+
+button {
+  display: block;  
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  height: 50px;
+  width: 150px;
+  font-family: Comic Sans MC;
+  background-color: PaleGreen;
+  cursor: pointer;
+}
